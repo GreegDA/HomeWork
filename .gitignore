@@ -1,0 +1,10 @@
+# Project exclude paths
+/target/
+/.idea/libraries/javaxt_core_v1_10.xml
+/.idea/.gitignore
+/.idea/compiler.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
